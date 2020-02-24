@@ -1,38 +1,3 @@
-<!--
-# 이력서
-[한국어](./README.md) [English](./README_en.md)
-
-<br/>
-
-## 소개
-![프로필이미지](https://github.com/developer-ted/RESUME/raw/master/images/profile.jpeg)
-- 이름: 김지완
-- 생년월일: 1990. 11. 03
-
-<br/>
-
-손으로 10초면 충분히 할 수 있는 일을 <br/>
-컴퓨터로 **하루 종일 프로그래밍해서 자동으로 수행**할 때, <br/>
-저는 더할 나위 없이 큰 행복을 느낍니다.
-
-<br/>
-
-- 취미: **카페코딩**, 음악, 노래, 다트, 운동, 여행
-- Email: it.dev.ted@gmail.com
-- GitHub: [github.com/developer-ted](https://github.com/developer-ted)
-- LinkedIn: [linkedin.com/in/developer-ted](https://www.linkedin.com/in/developer-ted/)
-
-<br/>
-
-```
-If I can make good services, I don't care about anything else.
-```
--->
-
-<br/>
-<br/>
-
-
 # 회사경력
 ### [TEDMONG] (2019. 05 - 현재) <br/>
 현재 TEDMONG에서 다양한 서비스 개발을 맡아서 하고 있습니다.
@@ -124,7 +89,7 @@ YSL 시리즈의 컨텐츠 개발 및 아가월드 시리즈의 메인 컨텐츠
     - Spine Library Version Migration
     - 프로젝트 리팩토링 및 버전 관리
 
-### Elysion(미출시)
+### Elysion
 - 소개 : 사이드 뷰 3D 전략 디펜스 게임
 - 기간 : 2018.07 ~ 2019.04
 - 회사명: Bulky Tree
@@ -136,7 +101,7 @@ YSL 시리즈의 컨텐츠 개발 및 아가월드 시리즈의 메인 컨텐츠
     - 각종 에디터 및 컨버터 개발
 
 ## Minigate
-### Project A(미정)
+### Project AR
 - 소개 : 오프라인 카드를 활용한 교육 컨텐츠, Vuforia Image target을 활용한 AR 컨텐츠
 - 기간 : 2017.11 ~ 2018.02
 - 회사명: Minigate
@@ -201,7 +166,7 @@ YSL 시리즈의 컨텐츠 개발 및 아가월드 시리즈의 메인 컨텐츠
     - K-ICT 신소프트웨어상품대상 미래창조과학부장관상 수상
 
 ## MSG soft
-### 삼국 마블(미출시)
+### 삼국 마블
 - 소개 : 삼국지를 배경으로 한 모바일 마블 게임
 - 기간 : 2015.04 ~ 2015.09
 - 회사명: MSG soft
